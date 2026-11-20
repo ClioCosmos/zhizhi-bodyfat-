@@ -1,0 +1,16 @@
+{
+  "id":"./",
+  "name":"知脂 · 四测量体脂率估算",
+  "short_name":"知脂",
+  "description":"用身高、体重、腰围和臀围估算成年女性DXA参考体脂率。本地计算，不上传体测值。",
+  "lang":"zh-CN",
+  "start_url":"./index.html",
+  "scope":"./",
+  "display":"standalone",
+  "background_color":"#f8f7fc",
+  "theme_color":"#6951ce",
+  "icons":[
+    {"src":"./assets/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"./assets/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
